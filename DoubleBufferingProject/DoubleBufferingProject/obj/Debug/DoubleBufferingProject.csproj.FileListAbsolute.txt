@@ -1,0 +1,21 @@
+E:\work\Courses\yr2015\SOFT152\assessment\DoubleBufferingProject\DoubleBufferingProject\bin\Debug\DoubleBufferingProject.exe.config
+E:\work\Courses\yr2015\SOFT152\assessment\DoubleBufferingProject\DoubleBufferingProject\obj\Debug\DoubleBufferingProject.csprojResolveAssemblyReference.cache
+E:\work\Courses\yr2015\SOFT152\assessment\DoubleBufferingProject\DoubleBufferingProject\obj\Debug\DoubleBufferingProject.DoubleBuffering.resources
+E:\work\Courses\yr2015\SOFT152\assessment\DoubleBufferingProject\DoubleBufferingProject\obj\Debug\DoubleBufferingProject.Properties.Resources.resources
+E:\work\Courses\yr2015\SOFT152\assessment\DoubleBufferingProject\DoubleBufferingProject\obj\Debug\DoubleBufferingProject.csproj.GenerateResource.Cache
+E:\work\Courses\yr2015\SOFT152\assessment\DoubleBufferingProject\DoubleBufferingProject\bin\Debug\DoubleBufferingProject.exe
+E:\work\Courses\yr2015\SOFT152\assessment\DoubleBufferingProject\DoubleBufferingProject\bin\Debug\DoubleBufferingProject.pdb
+E:\work\Courses\yr2015\SOFT152\assessment\DoubleBufferingProject\DoubleBufferingProject\obj\Debug\DoubleBufferingProject.exe
+E:\work\Courses\yr2015\SOFT152\assessment\DoubleBufferingProject\DoubleBufferingProject\obj\Debug\DoubleBufferingProject.pdb
+C:\Drive E\Courses\yr2015\SOFT152\assessment\DoubleBufferingProject\DoubleBufferingProject\bin\Debug\DoubleBufferingProject.exe.config
+C:\Drive E\Courses\yr2015\SOFT152\assessment\DoubleBufferingProject\DoubleBufferingProject\obj\Debug\DoubleBufferingProject.exe
+C:\Drive E\Courses\yr2015\SOFT152\assessment\DoubleBufferingProject\DoubleBufferingProject\obj\Debug\DoubleBufferingProject.pdb
+C:\Drive E\Courses\yr2015\SOFT152\assessment\DoubleBufferingProject\DoubleBufferingProject\bin\Debug\DoubleBufferingProject.exe
+C:\Drive E\Courses\yr2015\SOFT152\assessment\DoubleBufferingProject\DoubleBufferingProject\bin\Debug\DoubleBufferingProject.pdb
+C:\Drive E\Courses\yr2015\SOFT152\assessment\DoubleBufferingProject\DoubleBufferingProject\obj\Debug\DoubleBufferingProject.csprojResolveAssemblyReference.cache
+C:\Drive E\Courses\yr2015\SOFT152\assessment\DoubleBufferingProject\DoubleBufferingProject\obj\Debug\DoubleBufferingProject.DoubleBuffering.resources
+C:\Drive E\Courses\yr2015\SOFT152\assessment\DoubleBufferingProject\DoubleBufferingProject\obj\Debug\DoubleBufferingProject.Properties.Resources.resources
+C:\Drive E\Courses\yr2015\SOFT152\assessment\DoubleBufferingProject\DoubleBufferingProject\obj\Debug\DoubleBufferingProject.csproj.GenerateResource.Cache
+I:\Uni Work\Year 1\02 SOFT152\Assignment\DoubleBufferingProject\DoubleBufferingProject\bin\Debug\DoubleBufferingProject.exe.config
+I:\Uni Work\Year 1\02 SOFT152\Assignment\DoubleBufferingProject\DoubleBufferingProject\obj\Debug\DoubleBufferingProject.exe
+I:\Uni Work\Year 1\02 SOFT152\Assignment\DoubleBufferingProject\DoubleBufferingProject\obj\Debug\DoubleBufferingProject.pdb

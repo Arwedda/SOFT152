@@ -1,0 +1,27 @@
+E:\work\Courses\yr2013\SOFT144\assessment\Assignment\SOFT144PictureExample\DrawImageProject\bin\Debug\DrawImageProject.exe.config
+E:\work\Courses\yr2013\SOFT144\assessment\Assignment\SOFT144PictureExample\DrawImageProject\bin\Debug\DrawImageProject.exe
+E:\work\Courses\yr2013\SOFT144\assessment\Assignment\SOFT144PictureExample\DrawImageProject\bin\Debug\DrawImageProject.pdb
+E:\work\Courses\yr2013\SOFT144\assessment\Assignment\SOFT144PictureExample\DrawImageProject\obj\Debug\DrawImageProject.DrawImageForm.resources
+E:\work\Courses\yr2013\SOFT144\assessment\Assignment\SOFT144PictureExample\DrawImageProject\obj\Debug\DrawImageProject.Properties.Resources.resources
+E:\work\Courses\yr2013\SOFT144\assessment\Assignment\SOFT144PictureExample\DrawImageProject\obj\Debug\DrawImageProject.csproj.GenerateResource.Cache
+E:\work\Courses\yr2013\SOFT144\assessment\Assignment\SOFT144PictureExample\DrawImageProject\obj\Debug\DrawImageProject.exe
+E:\work\Courses\yr2013\SOFT144\assessment\Assignment\SOFT144PictureExample\DrawImageProject\obj\Debug\DrawImageProject.pdb
+E:\work\Courses\yr2013\SOFT144\assessment\Assignment\SOFT144PictureExample\DrawImageProject\obj\Debug\DrawImageProject.csprojResolveAssemblyReference.cache
+C:\Drive E\Courses\yr2013\SOFT144\assessment\Assignment\assignment material\SOFT144PictureExample\DrawImageProject\bin\Debug\DrawImageProject.exe.config
+C:\Drive E\Courses\yr2013\SOFT144\assessment\Assignment\assignment material\SOFT144PictureExample\DrawImageProject\bin\Debug\DrawImageProject.exe
+C:\Drive E\Courses\yr2013\SOFT144\assessment\Assignment\assignment material\SOFT144PictureExample\DrawImageProject\bin\Debug\DrawImageProject.pdb
+C:\Drive E\Courses\yr2013\SOFT144\assessment\Assignment\assignment material\SOFT144PictureExample\DrawImageProject\obj\Debug\DrawImageProject.csprojResolveAssemblyReference.cache
+C:\Drive E\Courses\yr2013\SOFT144\assessment\Assignment\assignment material\SOFT144PictureExample\DrawImageProject\obj\Debug\DrawImageProject.DrawImageForm.resources
+C:\Drive E\Courses\yr2013\SOFT144\assessment\Assignment\assignment material\SOFT144PictureExample\DrawImageProject\obj\Debug\DrawImageProject.Properties.Resources.resources
+C:\Drive E\Courses\yr2013\SOFT144\assessment\Assignment\assignment material\SOFT144PictureExample\DrawImageProject\obj\Debug\DrawImageProject.csproj.GenerateResource.Cache
+C:\Drive E\Courses\yr2013\SOFT144\assessment\Assignment\assignment material\SOFT144PictureExample\DrawImageProject\obj\Debug\DrawImageProject.exe
+C:\Drive E\Courses\yr2013\SOFT144\assessment\Assignment\assignment material\SOFT144PictureExample\DrawImageProject\obj\Debug\DrawImageProject.pdb
+C:\Drive E\Courses\yr2015\SOFT152\assessment\SOFT152PictureExample\DrawImageProject\bin\Debug\DrawImageProject.exe.config
+C:\Drive E\Courses\yr2015\SOFT152\assessment\SOFT152PictureExample\DrawImageProject\obj\Debug\DrawImageProject.exe
+C:\Drive E\Courses\yr2015\SOFT152\assessment\SOFT152PictureExample\DrawImageProject\obj\Debug\DrawImageProject.pdb
+C:\Drive E\Courses\yr2015\SOFT152\assessment\SOFT152PictureExample\DrawImageProject\bin\Debug\DrawImageProject.exe
+C:\Drive E\Courses\yr2015\SOFT152\assessment\SOFT152PictureExample\DrawImageProject\bin\Debug\DrawImageProject.pdb
+C:\Drive E\Courses\yr2015\SOFT152\assessment\SOFT152PictureExample\DrawImageProject\obj\Debug\DrawImageProject.csprojResolveAssemblyReference.cache
+C:\Drive E\Courses\yr2015\SOFT152\assessment\SOFT152PictureExample\DrawImageProject\obj\Debug\DrawImageProject.DrawImageForm.resources
+C:\Drive E\Courses\yr2015\SOFT152\assessment\SOFT152PictureExample\DrawImageProject\obj\Debug\DrawImageProject.Properties.Resources.resources
+C:\Drive E\Courses\yr2015\SOFT152\assessment\SOFT152PictureExample\DrawImageProject\obj\Debug\DrawImageProject.csproj.GenerateResource.Cache
